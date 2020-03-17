@@ -41,7 +41,7 @@ let urlList=[
   scriptJSON.type="text/javascript";
   scriptJSON.src=url;
   var url='https://javonhuang.github.io/onlineJS/map'+scriptJSON;
-  document.body.appendChild(scriptJSON);
+  document.body.appendChild(url);
   console.log(url)
  }
 
