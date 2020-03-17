@@ -39,10 +39,9 @@ let urlList=[
  function AddJavaScript(url){
   let scriptJSON=document.createElement('script');
   scriptJSON.type="text/javascript";
-  scriptJSON.src=url;
-  var url='https://javonhuang.github.io/onlineJS/map'+scriptJSON;
-  document.body.appendChild(url);
-  console.log(url)
+  var _url='https://javonhuang.github.io/onlineJS/map'+url;
+  scriptJSON.src=_url;
+  document.body.appendChild(scriptJSON);
  }
 
  urlList.forEach((item)=>{
