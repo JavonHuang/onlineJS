@@ -440,3 +440,72 @@ var chinaCityLisy={
 	"台州市": [121.428599, 28.661378],
 	"丽水市": [119.921786, 28.451993]
 }
+
+
+// let guangdong_mapFeatures = this.echarts.getMap("广东").geoJson.features;
+//         let anhui_mapFeatures = this.echarts.getMap("安徽").geoJson.features;
+//         let aomen_mapFeatures = this.echarts.getMap("澳门").geoJson.features;
+//         let beijing_mapFeatures = this.echarts.getMap("北京").geoJson.features;
+//         let chongqing_mapFeatures = this.echarts.getMap("重庆").geoJson.features;
+//         let fujian_mapFeatures = this.echarts.getMap("福建").geoJson.features;
+//         let gansu_mapFeatures = this.echarts.getMap("甘肃").geoJson.features;
+//         let guangxi_mapFeatures = this.echarts.getMap("广西").geoJson.features;
+//         let guizhou_mapFeatures = this.echarts.getMap("贵州").geoJson.features;
+//         let hainan_mapFeatures = this.echarts.getMap("海南").geoJson.features;
+//         let hebei_mapFeatures = this.echarts.getMap("河北").geoJson.features;
+//         let heilongjiang_mapFeatures = this.echarts.getMap("黑龙江").geoJson.features;
+//         let henan_mapFeatures = this.echarts.getMap("河南").geoJson.features;
+//         let hubei_mapFeatures = this.echarts.getMap("湖北").geoJson.features;
+//         let hunan_mapFeatures = this.echarts.getMap("湖南").geoJson.features;
+//         let jiangsu_mapFeatures = this.echarts.getMap("江苏").geoJson.features;
+//         let jiangxi_mapFeatures = this.echarts.getMap("江西").geoJson.features;
+//         let jilin_mapFeatures = this.echarts.getMap("吉林").geoJson.features;
+//         let liaoning_mapFeatures = this.echarts.getMap("辽宁").geoJson.features;
+//         let neimenggu_mapFeatures = this.echarts.getMap("内蒙古").geoJson.features;
+//         let ningxia_mapFeatures = this.echarts.getMap("宁夏").geoJson.features;
+//         let qinghai_mapFeatures = this.echarts.getMap("青海").geoJson.features;
+//         let shandong_mapFeatures = this.echarts.getMap("山东").geoJson.features;
+//         let shanghai_mapFeatures = this.echarts.getMap("上海").geoJson.features;
+//         let shanxi_mapFeatures = this.echarts.getMap("山西").geoJson.features;
+//         let sichuan_mapFeatures = this.echarts.getMap("四川").geoJson.features;
+//         let taiwan_mapFeatures = this.echarts.getMap("台湾").geoJson.features;
+//         let tianjin_mapFeatures = this.echarts.getMap("天津").geoJson.features;
+//         let xianggang_mapFeatures = this.echarts.getMap("香港").geoJson.features;
+//         let xizang_mapFeatures = this.echarts.getMap("西藏").geoJson.features;
+//         let yunnan_mapFeatures = this.echarts.getMap("云南").geoJson.features;
+//         let zhejiang_mapFeatures = this.echarts.getMap("浙江").geoJson.features;
+
+//         this.All_mapFeatures=[
+//           ...anhui_mapFeatures,
+//           ...aomen_mapFeatures,
+//           ...beijing_mapFeatures,
+//           ...chongqing_mapFeatures,
+//           ...fujian_mapFeatures,
+//           ...gansu_mapFeatures,
+//           ...guangdong_mapFeatures,
+//           ...guangxi_mapFeatures,
+//           ...guizhou_mapFeatures,
+//           ...hainan_mapFeatures,
+//           ...hebei_mapFeatures,
+//           ...heilongjiang_mapFeatures,
+//           ...henan_mapFeatures,
+//           ...hubei_mapFeatures,
+//           ...hunan_mapFeatures,
+//           ...jiangsu_mapFeatures,
+//           ...jiangxi_mapFeatures,
+//           ...jilin_mapFeatures,
+//           ...liaoning_mapFeatures,
+//           ...neimenggu_mapFeatures,
+//           ...ningxia_mapFeatures,
+//           ...qinghai_mapFeatures,
+//           ...shandong_mapFeatures,
+//           ...shanghai_mapFeatures,
+//           ...shanxi_mapFeatures,
+//           ...sichuan_mapFeatures,
+//           ...taiwan_mapFeatures,
+//           ...tianjin_mapFeatures,
+//           ...xianggang_mapFeatures,
+//           ...xizang_mapFeatures,
+//           ...yunnan_mapFeatures,
+//           ...zhejiang_mapFeatures,
+//         ]
